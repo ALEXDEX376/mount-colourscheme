@@ -1,6 +1,7 @@
 # mount-colourscheme
 A colourscheme based on the kde mountain wallpaper (dark).
-RGB Values
+
+RGB Values:
 
 [Background]
 Color=41,48,58
